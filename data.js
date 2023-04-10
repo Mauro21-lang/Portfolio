@@ -2,7 +2,7 @@ const proyectos = [
     {
         titulo: "Calculadora",
         descripcion: "Calculadora simple que cumple con las funcionalidades basicas",
-        link: "https://github.com/Mauro21-lang/Calculadora",
+        link: "https://mauro21-lang.github.io/Calculadora/",
         imagen:"calculadora.png",
         tecnologias: ["html, CSS, Javascript"],
 
@@ -18,7 +18,7 @@ const proyectos = [
     {
         titulo: "Coderhouse",
         descripcion: "Pagina que realice para aprobar el curso de coderhouse.Es una pagina de venta de juego con 5 secciones",
-        link: "https://github.com/Mauro21-lang/coderhouse-proyecto-final",
+        link: "https://mauro21-lang.github.io/coderhouse-proyecto-final/",
         imagen:"coderhouse.png",
         tecnologias: ["html, CSS, Sass,"]
 
@@ -34,7 +34,7 @@ const proyectos = [
     {
         titulo: "Piedra, papel o tijera",
         descripcion: "juego tradicional, el mejor a 5 gana vs Pc",
-        link: "https://github.com/Mauro21-lang/Piedra-Papel-Tijera",
+        link: "https://mauro21-lang.github.io/Piedra-Papel-Tijera/",
         imagen:"piedra-papel-tijera.png",
         tecnologias: ["html, CSS, JavaScript"],
 
